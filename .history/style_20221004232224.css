@@ -1,0 +1,12 @@
+body {
+  background-color: beige;
+}
+.countdown {
+  width: 800px;
+  height: 300px;
+  margin: 200px auto;
+  background-color: white;
+}
+ul {
+  list-style: none;
+}

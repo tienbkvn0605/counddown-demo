@@ -1,0 +1,28 @@
+body {
+  background-color: beige;
+}
+ul {
+  list-style: none;
+}
+.countdown {
+  width: 700px;
+  height: 200px;
+  margin: 200px auto;
+  background-color: white;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 20px;
+}
+.countdown li {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.number {
+  font-size: 100px;
+  color: #6a5af9;
+  margin-bottom: -20px;
+}
+.text {
+  font-size: 20px;
+}
