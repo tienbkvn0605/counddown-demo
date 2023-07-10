@@ -30,7 +30,7 @@ window.addEventListener("load", function () {
       }
     }, 1000);
   }
-  countDow("Sat Apr 28 2023 23:55:50 GMT+0900 (Japan Standard Time)");
+  countDow("Sat Apr 28 2050 23:55:50 GMT+0900 (Japan Standard Time)");
 });
 
 // countDown("Wed Oct 07 2022 00:00:00 GMT+0900 (Japan Standard Time)");
